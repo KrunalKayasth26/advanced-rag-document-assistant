@@ -108,7 +108,18 @@ advanced-rag-document-assistant
 ├── .env.example
 └── .gitignore
 ```
+# Advanced RAG Document Assistant
 
+## Screenshots
+
+### Interface
+![Interface](images/image1.png)
+
+### Question Answering
+![QA](images/image2.png)
+
+### Analytics Dashboard
+![Analytics](images/image3.png)
 ---
 
 ## Author
