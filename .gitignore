@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+faiss_index/
+.cache/
+temp_*.pdf
